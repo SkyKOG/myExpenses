@@ -1,4 +1,4 @@
-An app to track your money & bills, manage budgets and track loans.
+An app to manage your expenses, remember loans and handle bills.
 
 
 
